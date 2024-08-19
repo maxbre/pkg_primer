@@ -54,20 +54,16 @@ for your software.
 ### What about CC0?
 
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (public
-domain) seems appropriate for software: you're just saying that anyone
-can do anything with the code.
+domain) does seem potentially appropriate for software: you're
+saying that people
+can do anything with the code, and it also has a clause about "no
+warranties" and disclaiming liability.
 
-But in some states (e.g., Maryland, I think), software is treated as a
-&ldquo;good&rdquo; (like a car), and so if your code causes something
-terrible to happen, you could be sued for damages. Using a lenient
-license, like the
-[MIT license](https://en.wikipedia.org/wiki/MIT_License), eliminates
-that potential problem through the &ldquo;no warranty&rdquo; clause.
-
-So, use [CC0](https://creativecommons.org/publicdomain/zero/1.0/) for
-your lecture notes, slides, and web sites, but use a lenient license,
+But I still generally use
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/) just for
+your lecture notes, slides, and web sites, but I use a lenient license,
 like the [MIT license](https://en.wikipedia.org/wiki/MIT_License), for
-your software.
+software.
 
 ### Indicating your choice in your package
 
